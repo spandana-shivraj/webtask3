@@ -65,7 +65,7 @@ img[alt="air"]{
    margin-top: 1.5rem;
 }
 
-#flex-2 button{
+#flex2 button{
     width:10rem;
     height: 2.2rem;
     font-size: 0.9rem;
@@ -74,7 +74,7 @@ img[alt="air"]{
     background-color:white;
 }
 
-#flex-2 button:hover{
+#flex2 button:hover{
     background-color: rgb(250, 246, 246);
 }
 
@@ -89,7 +89,7 @@ img[alt="air"]{
     background-color: rgb(211, 146, 146);
 }
 
-.flex-3{
+.flex3{
     height: 50px;
     width: 7%;
     border: 0.1px solid rgb(199, 176, 176);
@@ -103,13 +103,13 @@ img[alt="person"]{
     padding-top: 8px;
 }
 
-.flex-3 i{
+.flex3 i{
     position: absolute;
     left: 75.4rem;
     top: 6.6rem;
 }
 
-.flex-3:hover{
+.flex3:hover{
     box-shadow:-10px -10px 20px rgb(247, 245, 245),0px 2px 2px 1px rgb(22, 9, 9);
 }
 
@@ -191,9 +191,6 @@ img[alt="photo"]{
     left: 1rem;
     top: 0.9rem;
 }
-
-/* IMAGES PART */
-
 .navbar-3{
     display: flex;
     justify-content: space-evenly;
@@ -224,10 +221,6 @@ span{
 .jan{
     color: rgb(134, 125, 125);
 }
-
-
-
-/* number 2 */
 
 #para-z p{
     font-size: 1rem;
